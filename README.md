@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [awilkesbooth.com](awilkesbooth.com)
+- 👨‍💻 All of my projects are available at [awilkesbooth.com](https://awilkesbooth.com)
 
 - 💬 Ask me about **react & wordpress**
 
