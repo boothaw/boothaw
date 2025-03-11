@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Wilkes</h1>
 <h3 align="center">Digital Construction Worker</h3>
 
-- 🔭 I’m currently working on [Aprille Zammit's Portfolio](https://github.com/boothaw/Aprille)
-
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript & Next.js**
 
 - 👨‍💻 All of my projects are available at [awilkesbooth.com](https://awilkesbooth.com)
 
